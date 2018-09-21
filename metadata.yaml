@@ -1,0 +1,37 @@
+_repo: Nostalgia_53905
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wylde, Katharine
+    alias: Colvill, Helen Hester
+    birthdate: 1854
+    gutenberg_agent_id: '47609'
+    url: http://www.gutenberg.org/2009/agents/47609
+creator:
+  author:
+    agent_name: Deledda, Grazia
+    aliases:
+    - Deledda, Maria Grazia Cosima
+    - Madesani, Grazia Deledda
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '33472'
+    url: http://www.gutenberg.org/2009/agents/33472
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Grazia_Deledda
+    - http://en.wikipedia.org/wiki/Grazia_Deledda
+description: ''
+gutenberg_issued: '2017-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- Translations into English'
+- GITenberg
+title: Nostalgia
+url: http://www.gutenberg.org/ebooks/53905
